@@ -34,18 +34,18 @@ The module allows organizations to manage different driver profiles, including f
 ---
 
 ## Screenshots
-
+<!-- 
 ### Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png) -->
 
 ### Driver List
 
-![Driver List](images/driver-list.png)
+![Driver List](images/driver-module-list.png)
 
 ### Create Driver
 
-![Create Driver](images/create-driver.png)
+![Create Driver](images/driver-module-create.png)
 
 ### Fleet Owner Management
 
