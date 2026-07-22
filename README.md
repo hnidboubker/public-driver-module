@@ -103,8 +103,6 @@ This repository is a public showcase and does not contain the application's sour
 
 If you would like to collaborate, contribute to future development, or discuss opportunities, please contact me.
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
-
 ---
 
 ## License
@@ -116,5 +114,3 @@ The screenshots, documentation, and other content are the intellectual property 
 You may not copy, redistribute, modify, or reuse any part of this project without prior written permission.
 
 For collaboration, attribution requests, or other inquiries, please contact me.
-
-**Contact:** [your.email@example.com](mailto:your.email@example.com)
