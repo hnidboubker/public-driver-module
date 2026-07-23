@@ -49,7 +49,11 @@ The module allows organizations to manage different driver profiles, including f
 
 ### Fleet Owner Management
 
-![Fleet Owner](images/fleet-owner.png)
+![Fleet Owner](images/driver-module-fleet-owner.png)
+
+### Add new driver to fleet
+
+![Add driver to a Fleet](images/driver-module-add-driver-to-fleet.png)
 
 ### Driver Details
 
