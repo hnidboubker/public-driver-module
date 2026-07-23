@@ -55,9 +55,9 @@ The module allows organizations to manage different driver profiles, including f
 
 ![Add driver to a Fleet](images/driver-module-add-driver-to-fleet.png)
 
-### Driver Details
+<!-- ### Driver Details
 
-![Driver Details](images/driver-details.png)
+![Driver Details](images/driver-details.png) -->
 
 ---
 
@@ -107,14 +107,3 @@ This repository is a public showcase and does not contain the application's sour
 
 If you would like to collaborate, contribute to future development, or discuss opportunities, please contact me.
 
----
-
-## License
-
-This repository is provided for **demonstration and portfolio purposes only**.
-
-The screenshots, documentation, and other content are the intellectual property of the author. The application source code is private and is not included.
-
-You may not copy, redistribute, modify, or reuse any part of this project without prior written permission.
-
-For collaboration, attribution requests, or other inquiries, please contact me.
